@@ -1,0 +1,27 @@
+
+/* 
+    Created on : Jan 20, 2018, 10:40:30 PM
+    Author     : Jananie
+*/
+/*Common styles*/
+.center{text-align: center}
+.left{text-align: left}
+.right{text-align: right}
+.form-button{ padding: 6px 50px; font-size: 20px;font-weight: 500;color: #fff;background: #1ab91a;}
+.cus-boarder{border: 1px solid #ccc; border-radius: 6px; padding: 20px; background: #f5f2f2;}
+.outer-border{border: 1px solid #ccc; border-radius: 6px; padding: 20px;}
+
+/*Padding for Outer line  */
+.shop{padding: 20px 0px}
+
+/*shopping cart page*/
+.img-thumbnail{margin-bottom:20px;padding: 18px 20px;}
+.img-thumbnail img{max-height: 170px}
+.image-auto{text-align: center}
+.img-thumbnail .description{color: #666}
+.img-thumbnail .price{font-weight: 600;color: red;font-size: 20px}
+.captions{ padding:0 25px 20px}
+
+/*Checkout page*/
+.green{color:#1ab91a}
+
